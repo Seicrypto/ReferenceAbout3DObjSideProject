@@ -1,6 +1,7 @@
 # Indie game common 3D objects requirements references <br>獨立與個人開發工作室常用3D物件需求參考
----
-> This page was written for making 3D objects which generally studios and personal devs need, especially Games projects devs.<br>
+
+
+This page was written for making 3D objects which generally studios and personal devs need, especially Games projects devs.<br>
 As a side project, it designs for sale beginners on unity assets stores.
 This references page is a suggestion.<br>
 If your art has a strong personal identity, try your best and combine the market requirements. <br>
@@ -17,7 +18,7 @@ Produce consistent and personalized covers.<br>製作一致且個人特色的封
 
 It can make users more impressed with your products.<br>能讓用戶對您的產品更有印象
 ![Img_ContentReference](https://i.imgur.com/AOE4my8.png"ContentReference")
-
+※This example image is not my product, if the original author does not agree to use it, please tell us to take it down
 <br>
 <br>
 
