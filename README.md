@@ -13,7 +13,7 @@ Also, this reference is mainly recommended for people in Asia.
 <br>
 
 ## About Cover 關於產品封面
----
+
 Produce consistent and personalized covers.<br>製作一致且個人特色的封面
 
 It can make users more impressed with your products.<br>能讓用戶對您的產品更有印象
@@ -23,13 +23,22 @@ It can make users more impressed with your products.<br>能讓用戶對您的產
 <br>
 
 ## Product Requirement 產品需求
----
+### Object
+
 + Triangles+Quads less than 800 per object is better.<br>一個3D物件三角面數與四角面數總和請不要超過800面佳
 + Please do not use too many materials or textures on one object.<br>請不要在一個物件上使用過多的材質球和皮膚
 + Please remember to return all objects to zero axis.<br>所有的物件請記得歸零軸
 + Note the file size of the materials and textures.<br>注意材質球和皮膚的檔案大小
 + Compress your image.<br>請使用工具縮小您的皮膚(網路上很多)
+
+
+### Product
+
 + Products should include FBX files and store requirements for each version of Unity package files.<br>產品請包含FBX檔案和商店要求的各版本Unity package檔案
+
+### Marketing
+
+### Other
 
 
 
@@ -38,7 +47,7 @@ It can make users more impressed with your products.<br>能讓用戶對您的產
 
 ## Try Direction 建議嘗試方向
 
----
+
 
 ### Target type 1: General 一般通用
 
