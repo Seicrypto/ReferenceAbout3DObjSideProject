@@ -68,8 +68,8 @@ Unity Asset Store 並沒有任何上架費用，但對於銷售營業額會有30
 
 ### About define asset's price 關於定價
 
-The minimum price for an asset is $4.99 during 2022.If you are an individual creator trying to sell your work for the first time, the author of this article, as a product manager for 5 years, suggests that you could start with the range of 9.99~19.99 magnesium to try to sell. And according to the sales volume of the product on the shelves to determine whether to update the product content or the product design 4.99 mag related peripheral expansion package. If personal ability and time permit, it is suggested that you should first try the products with different differences on the shelf first, and do not rush to update the products with poor sales in order to observe and understand the needs of the buyers. <br>
-2022時每個產品最低設置金額為4.99鎂。如果您是初次嘗試銷售自己作品的個人創作者，本篇作者作為5年的產品經理建議您可以先從9.99~19.99鎂這個範圍開始嘗試銷售。並根據上架產品的銷售量判斷是否要更新產品內容或者是為該產品設計4.99鎂的相關周邊擴充包。如個人能力與時間上許可，建議先以上架各式不同差異的產品優先嘗試，不要急著去更新銷售不佳的產品，以便觀察與了解購買者的需求。
+The minimum price for an asset is $4.99 during 2022.If you are an individual creator trying to sell your work for the first time, the author of this article, as a product manager for 5 years, suggests that you could start with the range of 9.99 to 19.99 magnesium to try to sell. And according to the sales volume of the product on the shelves to determine whether to update the product content or the product design 4.99 mag related peripheral expansion package. If personal ability and time permit, it is suggested that you should first try the products with different differences on the shelf first, and do not rush to update the products with poor sales in order to observe and understand the needs of the buyers. <br>
+2022時每個產品最低設置金額為4.99鎂。如果您是初次嘗試銷售自己作品的個人創作者，本篇作者作為5年的產品經理建議您可以先從9.99到19.99鎂這個範圍開始嘗試銷售。並根據上架產品的銷售量判斷是否要更新產品內容或者是為該產品設計4.99鎂的相關周邊擴充包。如個人能力與時間上許可，建議先以上架各式不同差異的產品優先嘗試，不要急著去更新銷售不佳的產品，以便觀察與了解購買者的需求。
 
 ---
 
