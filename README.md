@@ -22,13 +22,17 @@ It can make users more impressed with your products.<br>能讓用戶對您的產
 
 ### Object
 
-+ Triangles+Quads less than 800 per object is better.<br>一個3D物件三角面數與四角面數總和請不要超過800面佳
++ Please name all files in English.<br>所有檔案都用請用英文命名
++ Don't mix triangles and quads with a object.<br>一個3D物件三角面與四角面請不要混用
++ Triangles or Quads less than 800 per object is better.<br>一個3D物件三角面數與四角面數總和請不要超過800面佳
 + Please do not use too many materials or textures on one object.<br>請不要在一個物件上使用過多的材質球和皮膚
-+ Large objects should be split into object clusters.<br>大型物件請拆成物件群集
++ Large objects should be split into object cluster.<br>大型物件請拆成物件群集
++ Please set the same cluster for the similar type of object.<br>同類型物建請設定成同一個群集
 + Please remember to return all object clusters to zero axis.<br>所有的物件群集請記得歸零軸
 + Note the file size of the materials and textures.<br>注意材質球和皮膚的檔案大小
 + Compress your image.<br>請使用工具縮小您的圖檔(網路上很多)
 + Please name each 3D objects appropriately and with rules.<br>請為您的"每一個"3D物件做適當請有規則的命名
++ Please use some easy-to-read and searchable naming methods Common: Cluster_type_object_name Example: Building_house_wood_wall I.<br>請使用一些易讀好搜尋的命名方法 常見: 群集_所屬類型_物件名稱 舉例: 建築物_房子_木頭牆壁I (舉例只是翻譯檔名請用英文)
 
 ### Product
 
