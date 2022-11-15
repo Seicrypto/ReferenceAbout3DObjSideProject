@@ -29,6 +29,7 @@ It can make users more impressed with your products.<br>能讓用戶對您的產
 + Large objects should be split into object cluster.<br>大型物件請拆成物件群集
 + Please set the same cluster for the similar type of object.<br>同類型物建請設定成同一個群集
 + Please remember to return all object clusters to zero axis.<br>所有的物件群集請記得歸零軸
++ If you can, please design 3 resolutions for your material and skin Low-Medium-High.<br>可以的話請為您的材質與皮膚設計3種解析度 低中高
 + Note the file size of the materials and textures.<br>注意材質球和皮膚的檔案大小
 + Compress your image.<br>請使用工具縮小您的圖檔(網路上很多)
 + Please name each 3D objects appropriately and with rules.<br>請為您的"每一個"3D物件做適當請有規則的命名
